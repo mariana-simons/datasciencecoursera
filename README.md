@@ -1,4 +1,3 @@
-datasciencecoursera
-===================
 
-Data Science Specialization Repository
+
+## Data Science Specialization Repository
